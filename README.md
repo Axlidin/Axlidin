@@ -7,3 +7,6 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
+<p>
+  ![Axlidin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axlidin&show_icons=true)
+</p>
