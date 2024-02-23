@@ -20,7 +20,11 @@
   
 </p>
 <p>
-  <img width="180" src="https://github-readme-stats.vercel.app/api?username=Axlidin&show_icons=true" >
-  <img width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axlidin&show_icons=true">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axlidin&show_icons=true&locale=en&layout=compact" alt="axlidin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axlidin&show_icons=true&locale=en" alt="axlidin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axlidin&" alt="axlidin" /></p>
 </p>
 
