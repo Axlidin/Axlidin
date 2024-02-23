@@ -20,7 +20,7 @@
   
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Axlidin&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axlidin&layout=donut-vertical">
+  <img align="left" width="180" src="https://github-readme-stats.vercel.app/api?username=Axlidin&show_icons=true" >
+  <img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axlidin&layout=donut-vertical">
 </p>
 
