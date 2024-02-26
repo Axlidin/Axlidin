@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axlidin&label=Profile%20views&color=0e75b6&style=flat" alt="axlidin" /> </p>
 <p>Connect with me:</p>
 <a href="https://t.me/just_the_moment">
-  <img src="[https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconsdb.com%2Fred-icons%2Ftelegram-icon.html&psig=AOvVaw2O8VJQmonywVueKYorgGuR&ust=1709039363182000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCAg_OJyYQDFQAAAAAdAAAAABAE)" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 <h3 align="left">Languages and Tools:</h3>
 <p>
