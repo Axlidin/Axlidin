@@ -62,12 +62,6 @@
 - Telegram: [@shermatov5861](https://t.me/shermatov5861)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axlidin&label=Profile%20views&color=0e75b6&style=flat" alt="axlidin" /> </p>
-<p>Connect with me:</p>
-<a href="https://t.me/just_the_moment">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-
   
 </p>
 <p>
